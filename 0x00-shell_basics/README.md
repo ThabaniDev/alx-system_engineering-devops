@@ -31,3 +31,5 @@
 	- Prints the type of the file named *iamafile* in /tmp/
 - 13-symbolic_link:
 	- Creates a symbolic link, __ls__, to /bin/ls in current working directory
+- 14-copy_html:
+	- Copies all html files from currect directory to parent directory which do not exist in the parent directory or are newer that the versions of the parent directory
