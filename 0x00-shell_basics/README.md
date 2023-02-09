@@ -23,3 +23,5 @@
 	- Deletes a file
 - 9-firstdirdeletion:
 	- Deletes a directory in /tmp/
+- Changes working directory to previous one:
+	- Changes the working directory to the previous one
