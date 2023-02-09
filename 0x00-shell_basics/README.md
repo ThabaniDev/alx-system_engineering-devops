@@ -39,3 +39,5 @@
 	- Deletes all files that end with the character *~*
 - 102-tree:
 	- Creates three directories with the limitation of only using 2 spaces and 2 lines of script code
+- 103-commas:
+	- Lists all files and directories (hidden files too), alpha order, sorted using letters and digits, with . and .. being listed first and directories ending with a slash (/) each listed item separated by a comma
