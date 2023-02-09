@@ -7,3 +7,5 @@
 	- Displays the contents of your current directory\n
 - 2-bring_me_home:
 	- Changes the working directory to the user's home directory\n
+- 3-listfiles:
+	- Displays current directory contents in long format\n
