@@ -27,3 +27,5 @@
 	- Changes the working directory to the previous one
 - 11-lists:
 	- List all files (including hidden files) in long format in current, parent and /boot directories
+- 12-file_type:
+	- Prints the type of the file named *iamafile* in /tmp/
