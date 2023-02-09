@@ -17,3 +17,5 @@
 	- Displays current directory contents in long format with user and group IDs displayed and all hidden files displayed
 - 6-firstdirectory:
 	- Creates a directory in the /tmp/ directory
+- 7-movethatfile:
+	- Moves a file
