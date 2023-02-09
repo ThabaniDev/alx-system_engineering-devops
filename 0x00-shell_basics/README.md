@@ -1,13 +1,13 @@
 # What each file does
 
-- 0-current\_workng\_directory:
+- 0-current_workng_directory:
 	- Prints the absolute path name of the current working directory
 
 - 1-listit:
-	- Displays the contents of your current directory\n
+	- Displays the contents of your current directory
+
 - 2-bring_me_home:
-	- Changes the working directory to the user's home directory\n
-- 3-listfiles:
-	- Displays current directory contents in long format\n
+	- Changes the working directory to the user's home directory
+
 - 3-listfiles:
 	- Displays current directory contents in long format
