@@ -9,3 +9,5 @@
 	- Changes the working directory to the user's home directory\n
 - 3-listfiles:
 	- Displays current directory contents in long format\n
+- 3-listfiles:
+	- Displays current directory contents in long format
