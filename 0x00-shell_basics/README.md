@@ -21,3 +21,5 @@
 	- Moves a file
 - 8-firstdelete:
 	- Deletes a file
+- 9-firstdirdeletion:
+	- Deletes a directory in /tmp/
