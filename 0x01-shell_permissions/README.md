@@ -1,0 +1,2 @@
+- 0-iam-betty:
+	- Switches the current user to betty using exactly 8 charactors (+1 for a new line)
