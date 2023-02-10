@@ -16,3 +16,5 @@
 	- Adds execution permission for everyone on the file named hello
 - 8-James_Bond:
 	- Adds all permissions for other users only to the file named hello
+- 9-John_Doe:
+	- Adds rwx permissions for effective user, r-x permissions for group and -wx permissions for the other users on file llo
