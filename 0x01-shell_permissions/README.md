@@ -1,3 +1,5 @@
+# What each file does
+
 - 0-iam-betty:
 	- Switches the current user to betty using exactly 8 charactors (+1 for a new line)
 - 1-who_am_i:
@@ -25,8 +27,8 @@
 - 12-directory_permissions:
 	- Creates a directory and also adds permissions 751
 - 13-change_group:
-	- Changes the current group owner of file named hello to holberton
-- 14-change_owner_and_group:
+	- Changes the current group owner of file named hello to school
+- 100-change_owner_and_group:
 	- Changes the owner to betty and group onwer to holberton for all fles and directories in the current working directory
-- 15-symbolic_link_permissions:
-	- Changes owner and the group onwer of the file _hello to hetty and holberton respectively
+- 101-symbolic_link_permissions:
+	- Changes owner and the group onwer of the file _hello to vincent and staff respectively
