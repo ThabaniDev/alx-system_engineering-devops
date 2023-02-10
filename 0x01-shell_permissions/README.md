@@ -4,3 +4,5 @@
 	- Display the currently active user
 - 2-groups:
 	- Displays all the groups associated with the current user
+- 3-new_owner:
+	- Changes the owner of the file 'hello' to betty
