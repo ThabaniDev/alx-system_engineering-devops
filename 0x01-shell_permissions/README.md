@@ -14,3 +14,5 @@
 	- Adds execution permission for user and group then read permission for other users to file named hello
 - 7-everybody:
 	- Adds execution permission for everyone on the file named hello
+- 8-James_Bond:
+	- Adds all permissions for other users only to the file named hello
