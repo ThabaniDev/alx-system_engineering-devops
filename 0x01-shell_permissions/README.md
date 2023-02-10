@@ -8,3 +8,5 @@
 	- Changes the owner of the file 'hello' to betty
 - 4-empty:
 	- Creates an empty file called hello
+- 5-execute:
+	- Adds execution permission to a file named hello for the effective user
