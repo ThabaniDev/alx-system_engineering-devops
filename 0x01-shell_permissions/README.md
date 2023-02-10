@@ -1,2 +1,4 @@
 - 0-iam-betty:
 	- Switches the current user to betty using exactly 8 charactors (+1 for a new line)
+- 1-who_am_i:
+	- Display the currently active user
