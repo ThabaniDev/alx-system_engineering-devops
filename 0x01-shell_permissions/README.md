@@ -24,3 +24,5 @@
 	- Adds execution permission to all subdirectories of current directory for owner, group owner and other users
 - 12-directory_permissions:
 	- Creates a directory and also adds permissions 751
+- 13-change_group:
+	- Changes the current group owner of file named hello to holberton
