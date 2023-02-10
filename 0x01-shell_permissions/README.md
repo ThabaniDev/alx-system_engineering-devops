@@ -12,3 +12,5 @@
 	- Adds execution permission to a file named hello for the effective user
 - 6-multiple_permissions:
 	- Adds execution permission for user and group then read permission for other users to file named hello
+- 7-everybody:
+	- Adds execution permission for everyone on the file named hello
