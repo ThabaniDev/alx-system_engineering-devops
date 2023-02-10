@@ -20,3 +20,5 @@
 	- Adds rwx permissions for effective user, r-x permissions for group and -wx permissions for the other users on file llo
 - 10-mirror_permissions:
 	- Mirrors the permissions from a file named olleh on to the file named hello
+- 11-directories_permissions:
+	- Adds execution permission to all subdirectories of current directory for owner, group owner and other users
