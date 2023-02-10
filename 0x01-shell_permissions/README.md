@@ -32,3 +32,5 @@
 	- Changes the owner to betty and group onwer to holberton for all fles and directories in the current working directory
 - 101-symbolic_link_permissions:
 	- Changes owner and the group onwer of the file _hello to vincent and staff respectively
+- 103-Star_Wars:
+	- Plays the StarWars IV episode in the terminal
