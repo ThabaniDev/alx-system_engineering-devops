@@ -6,3 +6,5 @@
 	- Displays all the groups associated with the current user
 - 3-new_owner:
 	- Changes the owner of the file 'hello' to betty
+- 4-empty:
+	- Creates an empty file called hello
