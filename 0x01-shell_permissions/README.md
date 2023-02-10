@@ -18,3 +18,5 @@
 	- Adds all permissions for other users only to the file named hello
 - 9-John_Doe:
 	- Adds rwx permissions for effective user, r-x permissions for group and -wx permissions for the other users on file llo
+- 10-mirror_permissions:
+	- Mirrors the permissions from a file named olleh on to the file named hello
