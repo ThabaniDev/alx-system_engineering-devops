@@ -26,3 +26,5 @@
 	- Creates a directory and also adds permissions 751
 - 13-change_group:
 	- Changes the current group owner of file named hello to holberton
+- 14-change_owner_and_group:
+	- Changes the owner to betty and group onwer to holberton for all fles and directories in the current working directory
