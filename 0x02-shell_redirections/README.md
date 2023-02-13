@@ -11,3 +11,5 @@
 	- Displays content of /etc/passwd and /etc/hosts
 - 4-lastlines:
 	- Displays last ten lines of /etc/passwd
+- 5-firstlines:
+	- Displays first ten lines of /etc/passwd
