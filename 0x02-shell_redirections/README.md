@@ -15,3 +15,5 @@
 	- Displays first ten lines of /etc/passwd
 - 6-third_line:
 	- Displays tird line of iacta
+- 7-file:
+	- Creates a funny file and writes "Best School" in it
