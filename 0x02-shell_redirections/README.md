@@ -7,3 +7,5 @@
 	- displays a confused smiley "(Ôo)'
 - 2-hellofile:
 	- Prints contents of /etc/passwd
+- 3-twofiles:
+	- Displays content of /etc/passwd and /etc/hosts
